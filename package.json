@@ -1,0 +1,23 @@
+{
+  "name": "linearsix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-javascript": "node javascript/index.js",
+    "run-api": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "moment": "^2.29.4"
+  }
+
+}
+
+
